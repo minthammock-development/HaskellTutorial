@@ -1,4 +1,4 @@
-module Example where
+module Lecture1 where
 import GHC.Base (VecElem(Int16ElemRep))
     
 increase :: Integer -> Integer
